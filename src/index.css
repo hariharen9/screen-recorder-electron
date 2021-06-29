@@ -1,0 +1,17 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Montserrat", Roboto,
+    Helvetica, Arial, sans-serif;
+  padding: 2px;
+  margin: 0;
+  background-color: rgb(43, 39, 39);
+}
+
+video {
+  width: 99%;
+  height: 40%;
+}
+
+body {
+  text-align: center;
+  padding-top: 20px;
+}
